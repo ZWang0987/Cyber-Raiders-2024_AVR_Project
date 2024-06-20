@@ -1,4 +1,4 @@
-/*        Zexuan Wang | zwang577@ucr.edu
+/*        Zexuan Wang | zwang577@ucr.edu 
 
  *         Discussion section: 24
 
